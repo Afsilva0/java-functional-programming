@@ -26,6 +26,14 @@ public class Functional {
                 .forEach(number -> System.out.println(number));
     }
 
+
+    public void printEventNumbersOfCubesInListFunctionalWithLambdas(List<Integer> numbers) {
+        numbers.stream()
+                .filter(number -> number % 2 == 0)
+                .map(number -> number * number)
+                .forEach(number -> System.out.println(number));
+    }
+
     public static void print(int number) {
         System.out.println(number);
     }

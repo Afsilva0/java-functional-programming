@@ -38,7 +38,10 @@ public class Main {
         //functional.printEventNumbersInListFunctional(numbers);
 
         // Programmin Funcional With Lambdas
-        functional.printEventNumbersInListFunctionalWithLambdas(numbers);
+        //functional.printEventNumbersInListFunctionalWithLambdas(numbers);
+
+        // Programmin Funcional With Lambdas And Map
+        functional.printEventNumbersOfCubesInListFunctionalWithLambdas(numbers);
 
     }
 }
