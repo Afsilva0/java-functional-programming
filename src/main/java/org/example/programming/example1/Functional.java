@@ -1,7 +1,6 @@
-package org.example.programming;
+package org.example.programming.example1;
 
 import java.util.List;
-import java.util.stream.Stream;
 
 public class Functional {
     public void printAllNumbersInListFunctional(List<Integer> numbers) {
