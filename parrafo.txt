@@ -1,0 +1,2 @@
+En algunas ocasiones, es posible que necesite varios párrafos de texto de relleno con el fin de realizar pruebas con el formato del documento y realizar ajustes para encontrar el efecto visual deseado.
+Para esta tarea, Word dispone de una función que pocos conocen, que tiene la capacidad de generar varios párrafos de manera automática con el número de líneas de texto que se requieran.
